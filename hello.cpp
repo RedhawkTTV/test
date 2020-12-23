@@ -6,11 +6,11 @@ string verb;
 string done;
 int main(){
 
-  cout<<"adjective";
+  cout<<"Type in a adjective.";
   cin>> adj;
-  cout<<"verb in the past tense";
+  cout<<"type in a verb of the past tense.";
   cin>> verb;
-  cout<<"noun";
+  cout<<"type in a noun.";
   cin>>noun;
   cout<<"The "<<adj<<" cat "<<verb<<" to the "<<noun<<".\n";
   cout<<"type done when done!";
